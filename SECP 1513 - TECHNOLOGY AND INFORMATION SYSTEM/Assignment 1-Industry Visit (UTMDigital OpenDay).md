@@ -22,4 +22,7 @@ More content below...
 
 <h2> PICTURES </h2>
 
+![photo_2025-12-28_17-42-40](https://github.com/user-attachments/assets/88ea51ce-d950-4795-82ed-ab447c5bf4ab)
+
+
 ![P1100740](https://github.com/user-attachments/assets/e0ef5f88-016d-43cc-ae1d-60ea26a66a76)
