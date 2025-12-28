@@ -24,6 +24,11 @@
 </div>
 <br>
 
+<h2> POSTER</h2>
+
+<img width="1414" height="2000" alt="PPG Indutstry" src="https://github.com/user-attachments/assets/00e3c83c-7ab8-42aa-8b8e-4fb452429887" />
+
+
 
 <h2> PICTURES</h2>
 
