@@ -27,6 +27,9 @@
 </div>
 <br>
 
+<h2> NEWSLETTER</h2>
+TAK BAGI RUBRIK LAGI
+
 
 <h2> PICTURES</h2>
 
