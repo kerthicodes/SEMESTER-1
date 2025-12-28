@@ -15,7 +15,16 @@
 
 
 <h2> REFLECTION </h2>
-More content below...
+<div align="justify">
+  
+<p>On 23rd December 2025, I visited Biocon Ltd., an Indian biopharmaceutical company headquartered in Bengaluru, with its U.S. headquarters in Bridgewater, New Jersey. Biocon also has a branch in Malaysia located in Gelang Patah, Johor. The company is one of the leading global manufacturers of insulin in Asia. During the industry visit, we were divided into three groups: drug substance, drug product, and research and development (R&D). I was assigned to the drug substance group.</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Throughout the visit, I learned that the drug substance department is divided into two main sections: upstream and downstream. In the upstream process, the product is generated and goes through three phases before being transferred to the downstream section. In the downstream process, the drug substance is purified until it reaches the maximum required purity level. This visit was closely related to my field of study because, in the upstream process, approximately 98% of the system operations are controlled by computer systems. From this experience, I realised that technology plays a significant role in every industry. One key insight I gained was learning about the cybersecurity measures implemented by the company. A staff member explained that Biocon has a confidential area dedicated to the cybersecurity team, which is located in a rural area to strengthen the company’s firewall and reduce the risk of cyberattacks.
+
+&nbsp;&nbsp;&nbsp;&nbsp;In terms of improvement, I believe that time management can be enhanced. Explaining each department in detail to students who are new to the industry can be time-consuming. Therefore, I suggest that speakers make better use of the provided time slots when explaining their respective departments so that the overall schedule is not disrupted.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Overall, I thoroughly enjoyed the industry visit and gained valuable new knowledge from the experience. In the future, I hope to apply for an internship at a company like Biocon Ltd. to further develop my skills and industry exposure.
+</div>
 <br>
 
 
