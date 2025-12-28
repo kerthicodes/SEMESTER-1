@@ -1,4 +1,10 @@
 <div align="center">
+
+  <img width="100" height="100" alt="UTM-LOGO-1" src="https://github.com/user-attachments/assets/4db99761-0ef6-433e-850d-0cde6f373909" />
+
+  
+<img src="https://github.com/user-attachments/assets/b042f56a-5ba6-41e2-b32d-389a1188a50a" width="100" />
+
 <h2>ASSINGMENT 3- INDUSTRY TALK BY PPG </h2>
 <p> DATE : 20 NOVEMBER 2025</p>
 <p> MODE : HYBRID </p>
