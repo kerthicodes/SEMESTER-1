@@ -9,7 +9,16 @@
 
 
 <h2> REFLECTION </h2>
-More content below...
+<div align="justify">
+  
+<p>The PC Assembly Lab and Quiz were held on 12th November 2025 at the Software Innovation Lab. First and foremost, the lab assistants explained the procedures for assembling and disassembling a personal computer (PC). </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;During the lab session, I was introduced to the internal components of the PC. For instance, the motherboard, cooling fan, wires, Random-access memory (RAM), hard disk, and power supply. This was the first time I saw the inside of a PC. From this, I learned how to assemble a PC in the correct order. Besides, I learned the precaution method, such as the way to hold a RAM, fix a cooling fan, and connect all the wires neatly.
+
+&nbsp;&nbsp;&nbsp;&nbsp;My suggestion for future improvisation is to have additional PCs be prepared in advance. I say this because one of the group did not have the chance to experience the PC because there was a shortage of PCs. So, they had to split up and join the other group. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Overall, I really enjoyed the PC assembly lab,the hands-on experience,and it helped me to answer the quiz very well. 
+</div>
 <br>
 
 <h2> STEPS OF PC ASSEMBLING </h2>
