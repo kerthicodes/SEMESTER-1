@@ -9,7 +9,7 @@
 <p> DATE : 20 NOVEMBER 2025</p>
 <p> MODE : HYBRID </p>
 <h2> </h2>
-</div>
+
 
 
 <h2> REFLECTION </h2>
@@ -28,7 +28,7 @@ More content below...
 
 ![photo_2025-12-28_16-32-15](https://github.com/user-attachments/assets/216873bb-50f9-4808-a9cc-3d7dff40932a)
 
-
+</div>
 <br>
 
 
