@@ -13,7 +13,15 @@
 
 
 <h2> REFLECTION </h2>
-More content below...
+<div align="justify">
+<p>I attended an industry talk by PPG Industries. It was conducted in  hybrid mode. They focused on how data is collected, analysed, and used to support business decisions. Furthermore, SAP is used to integrate various departments such as finance, supply chain, and operations into a centralized system. They explained the importance of combining technical knowledge with soft skills such as problem-solving, teamwork, and adaptability.</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Attending the industry talk widened my perspective on how technology plays a vital role in modern industries. I learned about data analytics, IT infrastructure, and enterprise systems. It gave me a clearer vision of real-world applications. The session made me realize that technical knowledge must be complemented by soft skills such as teamwork and problem-solving. This experience has motivated me to be more proactive in enhancing my skills and preparing myself for future challenges in the industry.
+
+&nbsp;&nbsp;&nbsp;&nbsp;I have a few suggestions to enhance future talks. First, ensure Internet stability before starting the online meeting to prevent disruptions. Additionally, I suggest that speakers review their material and rehearse in advance to help the session run smoothly and efficiently.
+
+&nbsp;&nbsp;&nbsp;&nbsp;In conclusion, I truly enjoyed attending the talk by PPG Industries. This valuable experience broadened my perspective and deepened my understanding of the topic.
+</div>
 <br>
 
 
