@@ -1,14 +1,13 @@
 <div align="center">
   
   <img width="100" height="100" alt="UTM-LOGO-1" src="https://github.com/user-attachments/assets/4db99761-0ef6-433e-850d-0cde6f373909" />
-
-
-  <img width="100" height="100" alt="UTM-LOGO-1" src="https://github.com/user-attachments/assets/45b83fb2-0970-4dfa-b42e-1ffb2cc433be" />
+  
+<img width="200" height="654" alt="logo-openday-1280x654" src="https://github.com/user-attachments/assets/ba59c296-acd2-4f32-bb66-e5d1de912948" />
   
 <h2>ASSINGMENT 1- INDUSTRY VISIT 1 
 <p>UTM DIGITAL Open Day !</p></h2>
 <p> DATE : 28 - 29 OCTOBER 2025</p>
-<p> VENUE : UTM DIGITAL BUILDING</p>
+<p> VENUE : D07 BLOCK, UTM DIGITAL</p>
 <h2> </h2>
 </div>
 
