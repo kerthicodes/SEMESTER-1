@@ -26,20 +26,19 @@
 
 <h2> POSTER</h2>
 
-<img width="1414" height="2000" alt="PPG Indutstry" src="https://github.com/user-attachments/assets/00e3c83c-7ab8-42aa-8b8e-4fb452429887" />
-
+<div align="center">
+<img width="500" height="2000" alt="PPG Indutstry" src="https://github.com/user-attachments/assets/00e3c83c-7ab8-42aa-8b8e-4fb452429887" />
+</div>
 
 
 <h2> PICTURES</h2>
 
 <div align="center">
-<img width="720" height="505" alt="Screenshot 2025-12-27 215900" src="https://github.com/user-attachments/assets/209b1c7a-5f18-41e7-8205-10ba9759391f" />
+<img width="500" height="505" alt="Screenshot 2025-12-27 215900" src="https://github.com/user-attachments/assets/209b1c7a-5f18-41e7-8205-10ba9759391f" />
+<img width="500" height="505" alt="Screenshot 2025-12-27 215900" src="https://github.com/user-attachments/assets/b3a4d1d7-2306-4f85-9723-09511e92406c" />
+<img width="500" height="505" alt="Screenshot 2025-12-27 215900" src="https://github.com/user-attachments/assets/77baa05d-d7b3-4ffb-90b3-dc50c49d8166" />
+<img width="500" height="505" alt="Screenshot 2025-12-27 215900" src="https://github.com/user-attachments/assets/216873bb-50f9-4808-a9cc-3d7dff40932a" />
 
-![photo_2025-12-28_16-32-12](https://github.com/user-attachments/assets/b3a4d1d7-2306-4f85-9723-09511e92406c)
-
-![photo_2025-12-28_16-32-09](https://github.com/user-attachments/assets/77baa05d-d7b3-4ffb-90b3-dc50c49d8166)
-
-![photo_2025-12-28_16-32-15](https://github.com/user-attachments/assets/216873bb-50f9-4808-a9cc-3d7dff40932a)
 
 </div>
 <br>
