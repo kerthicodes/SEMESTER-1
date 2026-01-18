@@ -23,6 +23,18 @@
 </div>
 <br>
 
+<h2> REPORT </h2>
+
+[Report AutiCont.pdf](https://github.com/user-attachments/files/24697980/Report.AutiCont.pdf)
+
+
+<h2> VIDEO </h2>
+
+[Video AutiCont](https://drive.google.com/drive/folders/1oM-gepcWdEYBWAK23vTgSCc-j8zg1nou?usp=drive_link)
+
+
+
+
 <h2> PROTOTYPE</h2>
 
 <table align="center">
