@@ -31,7 +31,7 @@
 <br>
 
 <h2> STEPS OF PC DISASSEMBLING </h2>
-<p>1. Close the casing properly</p>
+<p>1. Open the casing properly</p>
 <p>2. Connect all the cables properly</p>
 <p>3. Fit the power supply into the casing</p>
 <p>4. Place the RAM into the motherboard slot</p>
