@@ -28,7 +28,13 @@
 <br>
 
 <h2> NEWSLETTER</h2>
-TAK BAGI RUBRIK LAGI
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a732db5a-f2c7-45dc-8581-12818a839185" width="300px"><br><sub><b></b></sub></td>
+    <td><img src="https://github.com/user-attachments/assets/8a9ed5c1-7c8b-421d-9d48-2e55f9bbc705" width="300px"><br><sub><b></b></sub></td>
+    <td><img src="https://github.com/user-attachments/assets/1fde0013-96a7-423a-a3d8-34bc216965de" width="300px"><br><sub><b></b></sub></td>
+  </tr>
+</table>
 
 
 <h2> PICTURES</h2>
