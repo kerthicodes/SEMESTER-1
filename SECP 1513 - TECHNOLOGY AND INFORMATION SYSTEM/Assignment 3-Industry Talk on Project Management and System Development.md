@@ -2,12 +2,17 @@
 
 <img width="100" height="100" alt="UTM-LOGO-1" src="https://github.com/user-attachments/assets/4db99761-0ef6-433e-850d-0cde6f373909" />
 
-  
+<img width="95" height="100" alt="serunai" src="https://github.com/user-attachments/assets/7900881a-d099-42b0-a3a5-4528dfe02e30" />
+
+
   
 <h2>ASSINGMENT 3- INDUSTRY TALK 2
   
 on Project Management and System Development</h2>
 <p> DATE : 18 DECEMBER 2025</p>
+<p>SPEAKER: Ts. Hj. Abdul Alim Bin Abdul Muttalib 
+  
+  (Head of Technology and Innovation of Serunai Commerce Sdn. Bhd.)</p>
   
 
 <p> MODE : HYBRID</p>
