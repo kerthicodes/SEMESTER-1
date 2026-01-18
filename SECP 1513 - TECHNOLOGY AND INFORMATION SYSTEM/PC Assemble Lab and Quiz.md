@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100" height="100" alt="UTM-LOGO-1" src="https://github.com/user-attachments/assets/4db99761-0ef6-433e-850d-0cde6f373909" />
-<h2>ASSINGMENT 2- PC ASSEMBLE AND QUIZ </h2>
+<h2>PC ASSEMBLE AND QUIZ </h2>
 <p> DATE : 12 NOVEMBER 2025</p>
 <p> VENUE : SOFTWARE INNOVATION LAB</p>
 <h2> </h2>
