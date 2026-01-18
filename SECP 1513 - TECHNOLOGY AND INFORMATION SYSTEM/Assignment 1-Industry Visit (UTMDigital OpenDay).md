@@ -32,8 +32,9 @@
 [Click here](https://github.com/user-attachments/assets/81bd7756-3350-4125-a608-647dcdf26a0e) to see the vlog of UTM Digital's Open day.
 
 <h2> PICTURES </h2>
+<div align="center">
+<img width="500" height="505" alt="Screenshot 2025-12-27 215900" src="https://github.com/user-attachments/assets/88ea51ce-d950-4795-82ed-ab447c5bf4ab" />
 
-![photo_2025-12-28_17-42-40](https://github.com/user-attachments/assets/88ea51ce-d950-4795-82ed-ab447c5bf4ab)
-
-
-![P1100740](https://github.com/user-attachments/assets/e0ef5f88-016d-43cc-ae1d-60ea26a66a76)
+<br>
+<img width="500" height="505" alt="Screenshot 2025-12-27 215900" src="https://github.com/user-attachments/assets/e0ef5f88-016d-43cc-ae1d-60ea26a66a76" />
+</div>
